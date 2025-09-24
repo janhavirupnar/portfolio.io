@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "Instagram MERN",
+    "name": "Instagram",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
     "image": "instagrammern",
     "category": "mern",
@@ -340,3 +340,4 @@
     }
   }
 ]
+
