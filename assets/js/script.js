@@ -60,7 +60,7 @@ $("#contact-form").submit(function (event) {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Vendikattu Naveen";
+            document.title = "Portfolio | Janhavi Rupnar";
             $("#favicon").attr("href", "assets/images/favicon.gif");
         }
         else {
