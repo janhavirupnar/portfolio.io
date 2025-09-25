@@ -1,0 +1,42 @@
+[
+  {
+    "name": "IoT-based Gas Pipe Leakage Detector",
+    "desc": "IoT-enabled BOT for real-time gas leakage detection. Integrated MQ-9 sensors with Arduino UNO and ESP8266, connected to InfluxDB & Grafana dashboards, and implemented SMS alerts via GSM module.",
+    "image": "iotgasleakage",
+    "category": "iot",
+    "links": {
+      "view": "https://github.com/janhavirupnar/IOT-Based-Gas-pipe-leakage-Detection",
+      "code": "https://github.com/janhavirupnar/IOT-Based-Gas-pipe-leakage-Detection"
+    }
+  },
+  {
+    "name": "Intelligent Embedded Robot Using Ultrasonic and IR Sensors",
+    "desc": "Autonomous robot using ultrasonic and IR sensors for real-time obstacle detection and navigation. Developed in C (Arduino IDE) with optimized detection thresholds improving accuracy by 25%.",
+    "image": "embeddedrobot",
+    "category": "robotics",
+    "links": {
+      "view": "https://github.com/janhavirupnar/Obsatcle-Detection-Robot",
+      "code": "https://github.com/janhavirupnar/Obsatcle-Detection-Robot"
+    }
+  },
+  {
+    "name": "Custom Cloud Dashboard",
+    "desc": "IoT cloud dashboard integrating Grafana API for real-time sensor monitoring, automated reporting, and Power BI dashboards for decision-making. Improved IoT device management efficiency by 20%.",
+    "image": "clouddashboard",
+    "category": "cloud",
+    "links": {
+      "view": "https://github.com/janhavirupnar",
+      "code": "https://github.com/janhavirupnar"
+    }
+  },
+  {
+    "name": "Predictive Analytics Platform for Match Outcome Simulation",
+    "desc": "Data analytics platform for simulating and predicting match outcomes using historical datasets. Applied predictive modeling with Pandas & Matplotlib, automated data fetching via APIs, and enabled ML readiness.",
+    "image": "predictiveanalytics",
+    "category": "datascience",
+    "links": {
+      "view": "https://github.com/janhavirupnar",
+      "code": "https://github.com/janhavirupnar"
+    }
+  }
+]
